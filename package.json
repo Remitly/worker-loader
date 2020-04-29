@@ -51,7 +51,7 @@
     "@webpack-contrib/defaults": "^2.4.0",
     "@webpack-contrib/eslint-config-webpack": "^2.0.4",
     "babel-cli": "^6.0.0",
-    "babel-jest": "^21.0.0",
+    "babel-jest": "^25.5.1",
     "babel-plugin-transform-object-rest-spread": "^6.0.0",
     "babel-polyfill": "^6.0.0",
     "babel-preset-env": "^1.0.0",
