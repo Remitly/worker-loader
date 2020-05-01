@@ -64,7 +64,7 @@
     "eslint-plugin-import": "^2.2.0",
     "eslint-plugin-prettier": "^2.6.0",
     "husky": "^0.14.3",
-    "jest": "^21.0.0",
+    "jest": "^25.5.3",
     "lint-staged": "^4.0.0",
     "nsp": "^2.6.0",
     "pre-commit": "^1.0.0",
